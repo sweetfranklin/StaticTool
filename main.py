@@ -1,3 +1,4 @@
 
  * \project	WonderTrader
  *
+ * \author Wesley
